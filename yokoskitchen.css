@@ -22,8 +22,9 @@
             header {
                 height: 160px;
                 background-image: url("header.jpg");
-
+		position: relative;
             }
+
             h1 {
                 text-indent: -9999px;
                 width: 940px;
@@ -31,6 +32,15 @@
                 margin: 0px;
 
             }
+
+
+	     nav {
+    		position: absolute;
+   		 bottom: 10px; 
+   		 width: 100%;
+   		 text-align: center;
+	    }
+
 			nav, footer { 
                 clear: both;
                 color: white;
