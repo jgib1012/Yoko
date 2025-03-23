@@ -13,7 +13,7 @@ body {
 
 .wrapper {
     width: 940px;
-    margin: 20px auto 20px auto;
+    margin: 20px auto;
     border: 2px solid #000;
     background-color: #fff;
 }
@@ -31,22 +31,21 @@ h1 {
 }
 
 nav {
-    clear: both;
     background-color: #aeaca8;
-    color: white;
     height: 30px;
+    clear: both;
+    color: white;
     text-align: center;
 }
 
 nav ul {
     margin: 0;
-    padding: 0;
+    padding: 5px 0;
     list-style: none;
-    text-align: center;
 }
 
 nav li {
-    display: inline-block;
+    display: inline;
     margin-right: 40px;
 }
 
