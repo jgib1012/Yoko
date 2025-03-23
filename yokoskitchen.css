@@ -5,7 +5,7 @@
             body {
                 color: #666666;
                 background-color: #f9f8f6;
-                background-image: url("dark-wood.jpg");
+                background-image: url("images/dark-wood.jpg");
                 font-family: Georgia, 'Times New Roman', Times, serif;
                 line-height: 1.4em;
                 margin: 0px;
@@ -20,8 +20,8 @@
 
             }
             header {
-                height: 20px;
-                background-image: url("header.jpg");
+                height: 160px;
+                background-image: url("images/header.jpg");
 
             }
             h1 {
@@ -35,13 +35,13 @@
                 clear: both;
                 color: white;
                 background-color: #aeaca8;
-                height: 50px;
+                height: 30px;
 
             }
 
             nav ul {
                 margin: 0px;
-                padding: 10px 0px 10px 30px;
+                padding: 5px 0px 5px 30px;
 
             }
             nav li {
